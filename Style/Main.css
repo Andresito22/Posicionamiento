@@ -1,0 +1,200 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+body{
+background-color: gainsboro;
+}
+
+.Cuadro11{
+position: absolute;
+margin: auto;
+background-color: royalblue;
+width: 40px;
+height: 40px;
+top: 0;
+left: 0;
+}
+
+.Cuadro12{
+position: absolute;
+margin: auto;
+background: royalblue;
+width: 40px;
+height: 40px;
+top: 0;
+left: 0;
+bottom: 0;
+}
+
+.Cuadro13{
+position: absolute;
+margin: auto;
+background: royalblue;
+width: 40px;
+height: 40px;
+left: 0;
+bottom: 0;
+}
+
+.Cuadro14{
+position: absolute;
+margin: auto;
+background: royalblue;
+width: 40px;
+height: 40px;
+right: 0;
+top: 0;
+bottom: 0;
+}
+
+.Cuadro15{
+position: absolute;
+margin: auto;
+background: red;
+width: 40px;
+height: 40px;
+right: 0;
+top: 0;
+left: 0;
+bottom: 0;
+}
+
+.Cuadro16{
+position: absolute;
+margin: auto;
+background: royalblue;
+width: 40px;
+height: 40px;
+right: 0;
+top: 0;
+left: 0;
+}
+
+.Cuadro17{
+position: absolute;
+margin: auto;
+background: royalblue;
+width: 40px;
+height: 40px;
+right: 0;
+bottom: 0;
+left: 0;
+}
+
+.Cuadro18{
+position: absolute;
+margin: auto;
+background: royalblue;
+width: 40px;
+height: 40px;
+right: 0;
+top: 0;
+}
+
+.Cuadro19{
+position: absolute;
+margin: auto;
+background: royalblue;
+width: 40px;
+height: 40px;
+right: 0;
+bottom: 0;
+}
+
+.Cuadro1{
+position: absolute;
+margin: auto;
+background-color: aqua;
+width: 150px;
+height: 150px;
+top: 0;
+left: 0;
+}
+    
+.Cuadro2{
+position: absolute;
+margin: auto;
+background: aqua;
+width: 150px;
+height: 150px;
+top: 0;
+left: 0;
+bottom: 0;
+}
+    
+.Cuadro3{
+position: absolute;
+margin: auto;
+background: aqua;
+width: 150px;
+height: 150px;
+left: 0;
+bottom: 0;
+}
+    
+.Cuadro4{
+position: absolute;
+margin: auto;
+background: aqua;
+width: 150px;
+height: 150px;
+right: 0;
+top: 0;
+bottom: 0;
+}
+    
+.Cuadro5{
+position: absolute;
+margin: auto;
+background: greenyellow;
+width: 150px;
+height: 150px;
+right: 0;
+top: 0;
+left: 0;
+bottom: 0;
+}
+    
+.Cuadro6{
+position: absolute;
+margin: auto;
+background: aqua;
+width: 150px;
+height: 150px;
+right: 0;
+top: 0;
+left: 0;
+}
+    
+.Cuadro7{
+position: absolute;
+margin: auto;
+background: aqua;
+width: 150px;
+height: 150px;
+right: 0;
+bottom: 0;
+left: 0;
+}
+    
+.Cuadro8{
+position: absolute;
+margin: auto;
+background: aqua;
+width: 150px;
+height: 150px;
+right: 0;
+top: 0;
+}
+    
+.Cuadro9{
+position: absolute;
+margin: auto;
+background: aqua;
+width: 150px;
+height: 150px;
+right: 0;
+bottom: 0;
+}
